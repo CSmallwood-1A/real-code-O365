@@ -9,7 +9,8 @@
       "methods": [
         "get",
         "post"
-      ]
+      ],
+      "route": "HttpTrigger1/{uri1:alpha?}/{uri2:alpha?}/{uri3:alpha?}/{uri4:alpha?}/{uri5:alpha?}"
     },
     {
       "type": "http",
